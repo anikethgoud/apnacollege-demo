@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is my learning repo
+This is my learning Repo
+Author - Aniketh Goud
